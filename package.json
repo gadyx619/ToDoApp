@@ -5,8 +5,6 @@
   "main": "app.js",
   "scripts": {
     "backend": "cd backend; npm start"
-    "start": "node server.js",
-    "dev": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
